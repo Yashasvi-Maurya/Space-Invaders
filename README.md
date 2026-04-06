@@ -9,6 +9,11 @@ A simple arcade-style game built using Python and Pygame.
 - Collision detection
 - Score system
 
+## how to play
+- Use Left/Right arrow keys to move
+- Press Space to shoot 
+- Destroy enemies and score points
+
 ## 🛠 Tech Used
 - Python
 - Pygame
@@ -20,3 +25,4 @@ A simple arcade-style game built using Python and Pygame.
 
 ---
 Made by Yashasvi 💻🔥
+
